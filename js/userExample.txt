@@ -1,0 +1,13 @@
+cell: "081-165-8186"
+dob: {date: "1975-11-16T16:04:19.239Z", age: 46}
+email: "lucy.cook@example.com"
+gender: "female"
+id: {name: "PPS", value: "2918893T"}
+location: {street: {…}, city: "Waterford", state: "Dublin City", country: "Ireland", postcode: 84763, …}
+login: {uuid: "4fc7c290-3fe3-42ab-b075-b53bbec2dc61", username: "purplegorilla495", password: "penetration", salt: "Lry83SuU", md5: "a82d51c92db3574bf31f5f449cc5b431", …}
+name: {title: "Mrs", first: "Lucy", last: "Cook"}
+nat: "IE"
+phone: "021-943-9802"
+picture: {large: "https://randomuser.me/api/portraits/women/11.jpg", medium: "https://randomuser.me/api/portraits/med/women/11.jpg", thumbnail: "https://randomuser.me/api/portraits/thumb/women/11.jpg"}
+registered: {date: "2002-07-26T20:02:35.665Z", age: 19}
+__proto__: Object
