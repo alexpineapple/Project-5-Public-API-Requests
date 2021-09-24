@@ -1,5 +1,5 @@
 //url for the The Random User Generator API
-const userCount = 12;
+const userCount = 20;
 const nationality = "us";
 const url = `https://randomuser.me/api/?nat=${nationality}&results=${userCount}`;
 
